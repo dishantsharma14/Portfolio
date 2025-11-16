@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Climate Data Analytics Project:</h2>
 
-- <b>Panama Canal Water Level Model (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Panama Canal Water Level Model (Python, Jupyter Notebook)</b>
+  - [Statistical model to predict future water levels for shipping business effeciency](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
