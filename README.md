@@ -1,9 +1,9 @@
 <h1>Hi, I'm Dishant! <br/><a href="https://github.com/joshmadakor1">Data Science Enthusiat</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Researcher</a>, <a href="https://www.youtube.com/c/joshmadakor">PhD Candidate</a></h1>
 
-<h2>👨‍💻 Climate Data Analytics Project:</h2>
+<h2>👨‍💻🌎 Climate Data Analytics Projects:</h2>
 
-- <b>Panama Canal Water Level Model (Python, Jupyter Notebook)</b>
-  - [Statistical model to predict future water levels for shipping business effeciency](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook)</b>
+  - [Statistical model to predict future water levels for shipping business efficiency]((https://github.com/dishantsharma14/Panama-Canal-Model/tree/main))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
