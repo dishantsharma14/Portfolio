@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dishant! <br/><a href="https://github.com/joshmadakor1">Data Science Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Researcher</a>, <a href="https://www.youtube.com/c/joshmadakor">PhD Candidate</a></h1>
+<h1>Hi, I'm Dishant! <br/><a href="https://github.com/dishantsharma14">Data Science Enthusiast</a>, <a href="https://www.linkedin.com/in/geodishant/">Researcher</a>, <a href="https://wcs.niu.edu">PhD Candidate</a></h1>
 
 <h2>👨‍💻🌎 Climate Data Analytics Projects:</h2>
 
