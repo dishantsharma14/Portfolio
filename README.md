@@ -1,2 +1,2 @@
 # Portfolio
-My recent Data Science/Analytics Projects
+My recent Data Science/Analytics projects
