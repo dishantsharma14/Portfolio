@@ -7,7 +7,7 @@
 
 <h2>🗣️ Science Communication</h2>
 
-- [Poster Presentation at AGU 2024, Washington D.C.](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Poster Presentation at AGU 2024, Washington D.C.](https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDY8aeXoUWwR7M084_Gyi24AeVFOk9fd-_1MlHDjbaDdcA?e=VkpzbR)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
