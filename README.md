@@ -5,25 +5,13 @@
 - <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook)</b>
   - [Multiple Regression Model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
 
-<h2>🗣️ Science Communication</h2>
+<h2>🗣️ Science Communication & Data Viz</h2>
 
+- [StoryMap Showcasing Scientific Fieldwork](https://storymaps.arcgis.com/stories/ab0f5c9b521b4c989b630d1c0cac979a)
+- [Interactive Demographic WebMap of Ohio](https://niugeog.maps.arcgis.com/apps/instant/basic/index.html?appid=ec69f7779c14487682fb23c7f40c98e7)
 - [Poster Presentation at AGU 2024, Washington D.C.](https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDY8aeXoUWwR7M084_Gyi24AeVFOk9fd-_1MlHDjbaDdcA?e=VkpzbR)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
