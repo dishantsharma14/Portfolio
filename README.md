@@ -3,7 +3,7 @@
 <h2>👨‍💻🌎 Climate Data Analytics Projects:</h2>
 
 - <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook)</b>
-  - [Statistical model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
+  - [Multiple Regression Model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
 
 <h2>🗣️ Science Communication</h2>
 
