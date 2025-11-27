@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dishant! <br/><a href="https://github.com/dishantsharma14">Data Science Enthusiast</a>, <a href="https://www.linkedin.com/in/geodishant/">Researcher</a>, <a href="https://wcs.niu.edu">PhD Candidate</a></h1>
 
-<h2>👨‍💻🌎 Climate Data Analytics Projects:</h2>
+<h2>👨‍💻🌎 Climate/Spatial Data Analytics Projects:</h2>
 
 - <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook)</b>
   - [Multiple Regression Model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
