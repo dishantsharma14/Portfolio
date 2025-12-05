@@ -1,9 +1,12 @@
-<h1>Hi, I'm Dishant! <br/><a href="https://github.com/dishantsharma14">Data Science Enthusiast</a>, <a href="https://www.linkedin.com/in/geodishant/">Researcher</a>, <a href="https://wcs.niu.edu">PhD Candidate</a></h1>
+<h1>Hi, I'm Dishant! <br/><a>Data Science Enthusiast</a>, <a href="https://www.researchgate.net/profile/Dishant-Sharma-4?ev=hdr_xprf">Researcher</a>, <a href="https://wcs.niu.edu">PhD Candidate</a></h1>
 
-<h2>👨‍💻🌎 Climate/Spatial Data Analytics Projects:</h2>
+<h2>👨‍💻 Data Science & Analytics Projects:</h2>
 
-- <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook)</b>
+- <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook, Excel)</b>
   - [Multiple Regression Model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
+- <b>Suitability Analysis for New Commercial Buildings in Duluth, MN (ArcGIS Pro)</b>
+  - [Finding suitable locations in the city using Cost Surfaces](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
+
 
 <h2>🗣️ Science Communication & Data Viz</h2>
 
