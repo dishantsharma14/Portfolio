@@ -5,7 +5,7 @@
 - <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook, Excel)</b>
   - [Multiple Regression Model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
 - <b>Suitability Analysis for New Commercial Buildings in Duluth, MN (ArcGIS Pro)</b>
-  - [Finding suitable locations in the city using Cost Surfaces](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
+  - [Finding suitable locations in the city using Cost Surfaces](https://github.com/dishantsharma14/SuitabilityAnalysis)
 
 
 <h2>🗣️ Science Communication & Data Viz</h2>
