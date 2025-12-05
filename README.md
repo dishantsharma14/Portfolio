@@ -11,7 +11,7 @@
 <h2>🗣️ Science Communication & Data Viz</h2>
 
 - [StoryMap Showcasing Scientific Fieldwork](https://storymaps.arcgis.com/stories/ab0f5c9b521b4c989b630d1c0cac979a)
-- [Interactive Demographic WebMap of Ohio](https://niugeog.maps.arcgis.com/apps/instant/basic/index.html?appid=ec69f7779c14487682fb23c7f40c98e7)
+- [Interactive Demographic WebMap of Ohio](https://lnkd.in/gHfwiXmB)
 - [Poster Presentation at AGU 2024, Washington D.C.](https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDY8aeXoUWwR7M084_Gyi24AeVFOk9fd-_1MlHDjbaDdcA?e=VkpzbR)
 
 
