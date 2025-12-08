@@ -4,7 +4,7 @@
 
 - <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook, Excel)</b>
   - [Multiple Regression Model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
-- <b>Site Selection Model for Commercial Development in the City of Duluth, Minnesota (ArcGIS Pro, Python, SQL)</b>
+- <b>Site Selection Model for Commercial Development in Duluth, Minnesota (ArcGIS Pro, Python, SQL)</b>
   - [Finding suitable locations in the city using cost surfaces](https://github.com/dishantsharma14/SuitabilityAnalysis)
 
 
