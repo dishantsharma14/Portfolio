@@ -10,6 +10,7 @@
 
 <h2>🗣️ Science Communication & Data Viz</h2>
 
+- [Poster Presentation at AGU 2025, New Orleans](https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDmqh1S20h-RYoKD14LuLTpAeyI-5t4VORdJt5ZhDh0dfk?e=3pw5gK)
 - [StoryMap Showcasing Scientific Fieldwork](https://storymaps.arcgis.com/stories/ab0f5c9b521b4c989b630d1c0cac979a)
 - [Interactive Demographic WebMap of Ohio](https://lnkd.in/gHfwiXmB)
 - [Poster Presentation at AGU 2024, Washington D.C.](https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDY8aeXoUWwR7M084_Gyi24AeVFOk9fd-_1MlHDjbaDdcA?e=VkpzbR)
