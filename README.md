@@ -10,7 +10,7 @@
   - [Using Random Forest ML to estimate Glacier Area Loss based on satellite images](https://github.com/dishantsharma14/ComputerVision)
 
 
-<h2>🗣️ Science Communication & 📊 Data Viz</h2>
+<h2>🗣️ Science Communication & Data Visualization  📊 </h2>
 
 - [Poster Presentation at AGU 2025, New Orleans](https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDmqh1S20h-RYoKD14LuLTpAeyI-5t4VORdJt5ZhDh0dfk?e=3pw5gK)
 - [StoryMap Showcasing Scientific Fieldwork in Chile](https://storymaps.arcgis.com/stories/ab0f5c9b521b4c989b630d1c0cac979a)
