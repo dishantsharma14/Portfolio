@@ -7,7 +7,7 @@
 - <b>Site Selection Model for Commercial Development in Duluth, Minnesota (ArcGIS Pro, Python, SQL)</b>
   - [Finding suitable locations in the city using cost surfaces](https://github.com/dishantsharma14/SuitabilityAnalysis)
 - <b>Computer Vision for Environmental Change Detection in Chile (Erdas Imagine, Excel)</b>
-  - [Using Random Forest ML to estimate Glacier Area Loss based on satellite images](https://github.com/dishantsharma14/SuitabilityAnalysis)
+  - [Using Random Forest ML to estimate Glacier Area Loss based on satellite images](https://github.com/dishantsharma14/ComputerVision)
 
 
 <h2>🗣️ Science Communication & Data Viz</h2>
