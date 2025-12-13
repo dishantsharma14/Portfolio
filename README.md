@@ -8,6 +8,8 @@
   - [Finding suitable locations in the city using cost surfaces](https://github.com/dishantsharma14/SuitabilityAnalysis)
 - <b>Computer Vision for Environmental Change Detection in Chile (Erdas Imagine, Excel)</b>
   - [Using Random Forest ML to estimate Glacier Area Loss based on satellite images](https://github.com/dishantsharma14/ComputerVision)
+- <b> Exploratory Data Analysis and Time Series Analysis of Climate Change (Python, Jupyter Notebook/Lab)</b>
+  - [Exploring trends and spatial patters of temperature and precipitation in Rapel region (1950-2025)](https://github.com/dishantsharma14/ClimateTrends/blob/main/README.md)
 
 
 <h2>🗣️ Science Communication & Data Visualization  📊 </h2>
