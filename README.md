@@ -22,7 +22,7 @@
 <h2> 📜 Publications </h2>
 
 
--[Multi-Criteria Flood and Drought Risk Assessment in India](https://niuits-my.sharepoint.com/:b:/g/personal/z1985840_students_niu_edu/IQBtKKCAAJ-cQ66KzS5e3Q1FAWBf1FbuH603GoDH6m_lSfM?e=jfB8na)
+- [Multi-Criteria Flood and Drought Risk Assessment in India](https://niuits-my.sharepoint.com/:b:/g/personal/z1985840_students_niu_edu/IQBtKKCAAJ-cQ66KzS5e3Q1FAWBf1FbuH603GoDH6m_lSfM?e=jfB8na)
 <!--
 
 Here are some ideas to get you started:
