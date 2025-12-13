@@ -19,8 +19,8 @@
 - [Interactive Demographic WebMap of Ohio](https://lnkd.in/gHfwiXmB)
 - [Poster Presentation at AGU 2024, Washington D.C.](https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDY8aeXoUWwR7M084_Gyi24AeVFOk9fd-_1MlHDjbaDdcA?e=VkpzbR)
 
-
-
+<h2> 📜 Publications </h2>
+- [Multi-Criteria Flood and Drought Risk Assessment in Indian Himalayas](https://niuits-my.sharepoint.com/:b:/g/personal/z1985840_students_niu_edu/IQBtKKCAAJ-cQ66KzS5e3Q1FAWBf1FbuH603GoDH6m_lSfM?e=jfB8na)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
