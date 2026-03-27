@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Environmental Data Science & Analytics Projects:</h2>
 
-- <b>ML based Storm Mode Prediction (Python, Google Colab)</b>
-  - [Decision Tree Classifier for Storm Mode Prediction](https://github.com/dishantsharma14/StormModePrediction/blob/main/Storm_mode_prediction.ipynb)
+- <b>Machine Learning for Storm Mode Prediction (Python, Google Colab)</b>
+  - [Decision Tree Classifier for Storm Mode Prediction based on key storm morphology variables](https://github.com/dishantsharma14/StormModePrediction/blob/main/Storm_mode_prediction.ipynb)
 - <b>Panama Canal Water Level Prediction (Python, Jupyter Notebook, Excel)</b>
   - [Multiple Regression Model to predict future water levels for shipping business efficiency](https://github.com/dishantsharma14/Panama-Canal-Model/tree/main)
 - <b>Site Selection Model for Commercial Development in Duluth, Minnesota (ArcGIS Pro, Python, SQL)</b>
